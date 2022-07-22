@@ -1,10 +1,6 @@
 
+[![Node.js CI](https://github.com/serg-by/NextTailwindTemplate/actions/workflows/node-cli.yml/badge.svg)](https://github.com/serg-by/NextTailwindTemplate/actions/workflows/node-cli.yml)
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/serg-by/nexttailpnpm)
-![pnpm](https://img.shields.io/npm/v/pnpm?color=brightgreen&label=pnpm)
-
-![GitHub](https://img.shields.io/github/license/serg-by/nexttailpnpm?color=brightgreen&style=for-the-badge)
-# Next.js + Tailwindcss template
 
 Clean start template
 
